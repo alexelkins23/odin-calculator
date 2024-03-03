@@ -58,7 +58,7 @@ button {
   width: 48.8%;
 }
 
-.op {
+.op, .fn {
   background-color: black;
   color: white;
 }
